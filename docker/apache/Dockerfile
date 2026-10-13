@@ -11,7 +11,6 @@ RUN apt-get install -y \
     libbz2-dev \
     libpng-dev \
     libjpeg-dev \
-    libmcrypt-dev \
     libreadline-dev \
     libfreetype6-dev \
     g++
